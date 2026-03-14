@@ -1,0 +1,9 @@
+{
+  "name": "discord-web3-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for checking crypto prices",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^14.0.0"
+  }
+}
